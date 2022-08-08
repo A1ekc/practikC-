@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\a1eks\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex011_max9_metod\\ex011_max9_metod.csproj",
+      "projectUniqueName": "D:\\Учёба\\practikC-\\ex011_max9_metod\\ex011_max9_metod.csproj",
       "projectName": "ex011_max9_metod",
-      "projectPath": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex011_max9_metod\\ex011_max9_metod.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex011_max9_metod\\obj\\",
+      "projectPath": "D:\\Учёба\\practikC-\\ex011_max9_metod\\ex011_max9_metod.csproj",
+      "packagesPath": "C:\\Users\\a1eks\\.nuget\\packages\\",
+      "outputPath": "D:\\Учёба\\practikC-\\ex011_max9_metod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\a1eks\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
