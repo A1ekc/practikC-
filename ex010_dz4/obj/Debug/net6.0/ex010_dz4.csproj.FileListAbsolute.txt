@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\bin\Debug\net6.0\ex010_dz4.exe
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\bin\Debug\net6.0\ex010_dz4.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\bin\Debug\net6.0\ex010_dz4.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\bin\Debug\net6.0\ex010_dz4.dll
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\bin\Debug\net6.0\ex010_dz4.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.dll
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\refint\ex010_dz4.dll
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ex010_dz4.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex010_dz4\obj\Debug\net6.0\ref\ex010_dz4.dll
