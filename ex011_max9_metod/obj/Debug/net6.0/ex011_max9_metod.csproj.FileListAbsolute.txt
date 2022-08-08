@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\bin\Debug\net6.0\ex011_max9_metod.exe
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\bin\Debug\net6.0\ex011_max9_metod.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\bin\Debug\net6.0\ex011_max9_metod.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\bin\Debug\net6.0\ex011_max9_metod.dll
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\bin\Debug\net6.0\ex011_max9_metod.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.dll
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\refint\ex011_max9_metod.dll
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ex011_max9_metod.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex011_max9_metod\obj\Debug\net6.0\ref\ex011_max9_metod.dll

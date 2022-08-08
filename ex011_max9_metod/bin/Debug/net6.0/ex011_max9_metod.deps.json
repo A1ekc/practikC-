@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex011_max9_metod/1.0.0": {
+        "runtime": {
+          "ex011_max9_metod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex011_max9_metod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
