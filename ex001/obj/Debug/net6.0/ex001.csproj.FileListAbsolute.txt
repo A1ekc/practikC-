@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex001\bin\Debug\net6.0\ex001.exe
+E:\Учёба\PractikCSHarp\practikC-\ex001\bin\Debug\net6.0\ex001.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex001\bin\Debug\net6.0\ex001.dll
+E:\Учёба\PractikCSHarp\practikC-\ex001\bin\Debug\net6.0\ex001.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.dll
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\refint\ex001.dll
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex001\obj\Debug\net6.0\ref\ex001.dll
