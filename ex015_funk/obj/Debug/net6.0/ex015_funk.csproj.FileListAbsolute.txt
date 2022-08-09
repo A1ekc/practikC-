@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex015_funk\bin\Debug\net6.0\ex015_funk.exe
+D:\Учёба\practikC-\ex015_funk\bin\Debug\net6.0\ex015_funk.deps.json
+D:\Учёба\practikC-\ex015_funk\bin\Debug\net6.0\ex015_funk.runtimeconfig.json
+D:\Учёба\practikC-\ex015_funk\bin\Debug\net6.0\ex015_funk.dll
+D:\Учёба\practikC-\ex015_funk\bin\Debug\net6.0\ex015_funk.pdb
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.AssemblyInfo.cs
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.dll
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\refint\ex015_funk.dll
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.pdb
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ex015_funk.genruntimeconfig.cache
+D:\Учёба\practikC-\ex015_funk\obj\Debug\net6.0\ref\ex015_funk.dll
