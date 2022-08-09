@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.AssemblyInfo.cs
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\bin\Debug\net6.0\ex016_randomXXX_4iclo.exe
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\bin\Debug\net6.0\ex016_randomXXX_4iclo.deps.json
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\bin\Debug\net6.0\ex016_randomXXX_4iclo.runtimeconfig.json
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\bin\Debug\net6.0\ex016_randomXXX_4iclo.dll
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\bin\Debug\net6.0\ex016_randomXXX_4iclo.pdb
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.dll
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\refint\ex016_randomXXX_4iclo.dll
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.pdb
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ex016_randomXXX_4iclo.genruntimeconfig.cache
+D:\Учёба\practikC-\ex016_randomXXX_4iclo\obj\Debug\net6.0\ref\ex016_randomXXX_4iclo.dll
