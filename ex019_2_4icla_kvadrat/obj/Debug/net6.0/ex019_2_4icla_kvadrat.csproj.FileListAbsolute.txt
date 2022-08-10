@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\bin\Debug\net6.0\ex019_2_4icla_kvadrat.exe
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\bin\Debug\net6.0\ex019_2_4icla_kvadrat.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\bin\Debug\net6.0\ex019_2_4icla_kvadrat.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\bin\Debug\net6.0\ex019_2_4icla_kvadrat.dll
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\bin\Debug\net6.0\ex019_2_4icla_kvadrat.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.dll
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\refint\ex019_2_4icla_kvadrat.dll
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ex019_2_4icla_kvadrat.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\obj\Debug\net6.0\ref\ex019_2_4icla_kvadrat.dll
