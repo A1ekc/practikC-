@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\bin\Debug\net6.0\ex024_4etverb_naoborot.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\bin\Debug\net6.0\ex024_4etverb_naoborot.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\bin\Debug\net6.0\ex024_4etverb_naoborot.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\bin\Debug\net6.0\ex024_4etverb_naoborot.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\bin\Debug\net6.0\ex024_4etverb_naoborot.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\refint\ex024_4etverb_naoborot.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ex024_4etverb_naoborot.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex024_4etverb_naoborot\obj\Debug\net6.0\ref\ex024_4etverb_naoborot.dll
