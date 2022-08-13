@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\bin\Debug\net6.0\ex023_4etvertb.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\bin\Debug\net6.0\ex023_4etvertb.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\bin\Debug\net6.0\ex023_4etvertb.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\bin\Debug\net6.0\ex023_4etvertb.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\bin\Debug\net6.0\ex023_4etvertb.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\refint\ex023_4etvertb.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ex023_4etvertb.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex023_4etvertb\obj\Debug\net6.0\ref\ex023_4etvertb.dll
