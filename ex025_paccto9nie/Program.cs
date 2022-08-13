@@ -11,7 +11,7 @@ Console.WriteLine("Введите координаты y второй точки
 int y2 = InputToInt();
 
 double lenght = Math.Sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1));//Math.Sqrt -корень
-Console.WriteLine($"Длина отрезка: {lenght}");//$ - для подставки знаяения в {}
+Console.WriteLine($"A({x1}, {y1}); B({x2}, {y2}) -> {lenght}");//$ - для подставки знаяения в {}
 //Console.WriteLine("Длина отрезка: " + lenght);
 
 int InputToInt()
