@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\bin\Debug\net6.0\ex025_paccto9nie.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\bin\Debug\net6.0\ex025_paccto9nie.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\bin\Debug\net6.0\ex025_paccto9nie.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\bin\Debug\net6.0\ex025_paccto9nie.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\bin\Debug\net6.0\ex025_paccto9nie.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\refint\ex025_paccto9nie.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ex025_paccto9nie.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex025_paccto9nie\obj\Debug\net6.0\ref\ex025_paccto9nie.dll
