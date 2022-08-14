@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\bin\Debug\net6.0\ex029_dz10_kybu.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\bin\Debug\net6.0\ex029_dz10_kybu.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\bin\Debug\net6.0\ex029_dz10_kybu.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\bin\Debug\net6.0\ex029_dz10_kybu.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\bin\Debug\net6.0\ex029_dz10_kybu.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\refint\ex029_dz10_kybu.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ex029_dz10_kybu.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex029_dz10_kybu\obj\Debug\net6.0\ref\ex029_dz10_kybu.dll
