@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\bin\Debug\net6.0\ex027_dz8_polindrom.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\bin\Debug\net6.0\ex027_dz8_polindrom.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\bin\Debug\net6.0\ex027_dz8_polindrom.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\bin\Debug\net6.0\ex027_dz8_polindrom.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\bin\Debug\net6.0\ex027_dz8_polindrom.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\refint\ex027_dz8_polindrom.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ex027_dz8_polindrom.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex027_dz8_polindrom\obj\Debug\net6.0\ref\ex027_dz8_polindrom.dll
