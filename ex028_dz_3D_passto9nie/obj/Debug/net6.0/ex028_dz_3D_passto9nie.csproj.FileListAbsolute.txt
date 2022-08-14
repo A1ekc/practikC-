@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\bin\Debug\net6.0\ex028_dz_3D_passto9nie.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\bin\Debug\net6.0\ex028_dz_3D_passto9nie.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\bin\Debug\net6.0\ex028_dz_3D_passto9nie.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\bin\Debug\net6.0\ex028_dz_3D_passto9nie.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\bin\Debug\net6.0\ex028_dz_3D_passto9nie.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\refint\ex028_dz_3D_passto9nie.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ex028_dz_3D_passto9nie.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex028_dz_3D_passto9nie\obj\Debug\net6.0\ref\ex028_dz_3D_passto9nie.dll
