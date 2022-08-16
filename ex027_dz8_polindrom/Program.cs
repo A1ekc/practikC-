@@ -3,7 +3,7 @@
 
 string polindrom = ReadInt("Введите число N: ");
 
-if ((polindrom[1]==polindrom[5])&&(polindrom[2]==polindrom[4]))
+if ((polindrom[0]==polindrom[4])&&(polindrom[1]==polindrom[3]))
 {
     Console.WriteLine("Это полиндром ");
 }
