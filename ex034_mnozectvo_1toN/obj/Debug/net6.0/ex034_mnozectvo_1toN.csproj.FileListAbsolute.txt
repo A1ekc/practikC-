@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\bin\Debug\net6.0\ex034_mnozectvo_1toN.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\bin\Debug\net6.0\ex034_mnozectvo_1toN.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\bin\Debug\net6.0\ex034_mnozectvo_1toN.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\bin\Debug\net6.0\ex034_mnozectvo_1toN.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\bin\Debug\net6.0\ex034_mnozectvo_1toN.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\refint\ex034_mnozectvo_1toN.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ex034_mnozectvo_1toN.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex034_mnozectvo_1toN\obj\Debug\net6.0\ref\ex034_mnozectvo_1toN.dll
