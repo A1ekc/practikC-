@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\bin\Debug\net6.0\ex037_array_0_1.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\bin\Debug\net6.0\ex037_array_0_1.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\bin\Debug\net6.0\ex037_array_0_1.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\bin\Debug\net6.0\ex037_array_0_1.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\bin\Debug\net6.0\ex037_array_0_1.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\refint\ex037_array_0_1.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ex037_array_0_1.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex037_array_0_1\obj\Debug\net6.0\ref\ex037_array_0_1.dll
