@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex040_2Dmassiv\bin\Debug\net6.0\ex040_2Dmassiv.exe
+D:\Учёба\practikC-\ex040_2Dmassiv\bin\Debug\net6.0\ex040_2Dmassiv.deps.json
+D:\Учёба\practikC-\ex040_2Dmassiv\bin\Debug\net6.0\ex040_2Dmassiv.runtimeconfig.json
+D:\Учёба\practikC-\ex040_2Dmassiv\bin\Debug\net6.0\ex040_2Dmassiv.dll
+D:\Учёба\practikC-\ex040_2Dmassiv\bin\Debug\net6.0\ex040_2Dmassiv.pdb
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.AssemblyInfo.cs
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.dll
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\refint\ex040_2Dmassiv.dll
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.pdb
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ex040_2Dmassiv.genruntimeconfig.cache
+D:\Учёба\practikC-\ex040_2Dmassiv\obj\Debug\net6.0\ref\ex040_2Dmassiv.dll
