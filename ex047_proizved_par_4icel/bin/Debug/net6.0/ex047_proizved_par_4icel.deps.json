@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex047_proizved_par_4icel/1.0.0": {
+        "runtime": {
+          "ex047_proizved_par_4icel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex047_proizved_par_4icel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
