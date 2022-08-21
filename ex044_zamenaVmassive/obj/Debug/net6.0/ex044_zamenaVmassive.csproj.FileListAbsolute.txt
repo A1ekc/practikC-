@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex044_zamenaVmassive\bin\Debug\net6.0\ex044_zamenaVmassive.exe
+D:\Учёба\practikC-\ex044_zamenaVmassive\bin\Debug\net6.0\ex044_zamenaVmassive.deps.json
+D:\Учёба\practikC-\ex044_zamenaVmassive\bin\Debug\net6.0\ex044_zamenaVmassive.runtimeconfig.json
+D:\Учёба\practikC-\ex044_zamenaVmassive\bin\Debug\net6.0\ex044_zamenaVmassive.dll
+D:\Учёба\practikC-\ex044_zamenaVmassive\bin\Debug\net6.0\ex044_zamenaVmassive.pdb
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.AssemblyInfo.cs
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.dll
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\refint\ex044_zamenaVmassive.dll
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.pdb
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ex044_zamenaVmassive.genruntimeconfig.cache
+D:\Учёба\practikC-\ex044_zamenaVmassive\obj\Debug\net6.0\ref\ex044_zamenaVmassive.dll
