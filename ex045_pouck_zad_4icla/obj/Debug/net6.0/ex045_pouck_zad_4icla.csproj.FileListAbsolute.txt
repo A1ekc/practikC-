@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.AssemblyInfo.cs
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\bin\Debug\net6.0\ex045_pouck_zad_4icla.exe
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\bin\Debug\net6.0\ex045_pouck_zad_4icla.deps.json
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\bin\Debug\net6.0\ex045_pouck_zad_4icla.runtimeconfig.json
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\bin\Debug\net6.0\ex045_pouck_zad_4icla.dll
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\bin\Debug\net6.0\ex045_pouck_zad_4icla.pdb
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.dll
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\refint\ex045_pouck_zad_4icla.dll
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.pdb
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ex045_pouck_zad_4icla.genruntimeconfig.cache
+D:\Учёба\practikC-\ex045_pouck_zad_4icla\obj\Debug\net6.0\ref\ex045_pouck_zad_4icla.dll
