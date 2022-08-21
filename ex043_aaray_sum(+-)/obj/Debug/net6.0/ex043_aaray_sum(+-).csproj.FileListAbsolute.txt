@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\bin\Debug\net6.0\ex043_aaray_sum(+-).exe
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\bin\Debug\net6.0\ex043_aaray_sum(+-).deps.json
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\bin\Debug\net6.0\ex043_aaray_sum(+-).runtimeconfig.json
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\bin\Debug\net6.0\ex043_aaray_sum(+-).dll
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\bin\Debug\net6.0\ex043_aaray_sum(+-).pdb
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).AssemblyInfo.cs
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).dll
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\refint\ex043_aaray_sum(+-).dll
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).pdb
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ex043_aaray_sum(+-).genruntimeconfig.cache
+D:\Учёба\practikC-\ex043_aaray_sum(+-)\obj\Debug\net6.0\ref\ex043_aaray_sum(+-).dll
