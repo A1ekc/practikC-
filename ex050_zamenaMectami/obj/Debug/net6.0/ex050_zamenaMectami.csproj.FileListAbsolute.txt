@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\bin\Debug\net6.0\ex050_zamenaMectami.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\bin\Debug\net6.0\ex050_zamenaMectami.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\bin\Debug\net6.0\ex050_zamenaMectami.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\bin\Debug\net6.0\ex050_zamenaMectami.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\bin\Debug\net6.0\ex050_zamenaMectami.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\refint\ex050_zamenaMectami.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ex050_zamenaMectami.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex050_zamenaMectami\obj\Debug\net6.0\ref\ex050_zamenaMectami.dll
