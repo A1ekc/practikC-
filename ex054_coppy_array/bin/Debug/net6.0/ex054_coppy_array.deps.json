@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex054_coppy_array/1.0.0": {
+        "runtime": {
+          "ex054_coppy_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex054_coppy_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
