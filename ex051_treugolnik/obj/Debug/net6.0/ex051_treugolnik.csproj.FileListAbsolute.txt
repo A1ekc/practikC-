@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\bin\Debug\net6.0\ex051_treugolnik.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\bin\Debug\net6.0\ex051_treugolnik.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\bin\Debug\net6.0\ex051_treugolnik.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\bin\Debug\net6.0\ex051_treugolnik.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\bin\Debug\net6.0\ex051_treugolnik.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\refint\ex051_treugolnik.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ex051_treugolnik.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex051_treugolnik\obj\Debug\net6.0\ref\ex051_treugolnik.dll
