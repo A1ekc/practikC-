@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\bin\Debug\net6.0\ex053_fibonachi.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\bin\Debug\net6.0\ex053_fibonachi.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\bin\Debug\net6.0\ex053_fibonachi.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\bin\Debug\net6.0\ex053_fibonachi.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\bin\Debug\net6.0\ex053_fibonachi.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\refint\ex053_fibonachi.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ex053_fibonachi.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex053_fibonachi\obj\Debug\net6.0\ref\ex053_fibonachi.dll
