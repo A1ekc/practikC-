@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex060_2D_diag\bin\Debug\net6.0\ex060_2D_diag.exe
+D:\Учёба\practikC-\ex060_2D_diag\bin\Debug\net6.0\ex060_2D_diag.deps.json
+D:\Учёба\practikC-\ex060_2D_diag\bin\Debug\net6.0\ex060_2D_diag.runtimeconfig.json
+D:\Учёба\practikC-\ex060_2D_diag\bin\Debug\net6.0\ex060_2D_diag.dll
+D:\Учёба\practikC-\ex060_2D_diag\bin\Debug\net6.0\ex060_2D_diag.pdb
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.AssemblyInfo.cs
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.dll
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\refint\ex060_2D_diag.dll
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.pdb
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ex060_2D_diag.genruntimeconfig.cache
+D:\Учёба\practikC-\ex060_2D_diag\obj\Debug\net6.0\ref\ex060_2D_diag.dll
