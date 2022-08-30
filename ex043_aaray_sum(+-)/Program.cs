@@ -1,24 +1,24 @@
 ﻿// Задать массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9] Найти сумму отрицательных и положительных элементов массива.
 
 int size = 12;
-int [] numbers = new int [size];
+int [] numbers = new int [size];// инициализация массива
 FillArrayRandomNumbers(numbers);
 PrintArray(numbers);
 
 int sumNegative = 0;
 int sumPositive = 0;
 
-for (int i = 0; i < numbers.Length; i++)
+for (int i = 0; i < numbers.Length; i++)//считаем положительн и отрицат числа
 {
     if (numbers[i] > 0)
         sumPositive +=numbers[i];
     else
         sumNegative += numbers[i];
 }
-Console.WriteLine($"Сумма положительных элеменетов равна {sumPositive}\n" +
+Console.WriteLine($"Сумма положительных элеменетов равна {sumPositive}\n" +// \n перенос строки
                   $"Сумма отрицательных равна {sumNegative}");
 
-void FillArrayRandomNumbers(int [] array)
+void FillArrayRandomNumbers(int [] array)// рандом числа в массив
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -26,7 +26,7 @@ void FillArrayRandomNumbers(int [] array)
     }
 }
 
-void PrintArray(int[] array)
+void PrintArray(int[] array)//вывод массива на экран
 {
     for (int i = 0; i < array.Length; i++)
     {

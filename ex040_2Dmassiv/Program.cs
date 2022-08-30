@@ -43,5 +43,5 @@ int[,] matrix = new int[3,4];//инициализация
 
 PrintArray(matrix);// проверка нулей
 FillArray(matrix);//подставка значений
-Console.WriteLine();
+Console.WriteLine();//отступ
 PrintArray(matrix);//печать

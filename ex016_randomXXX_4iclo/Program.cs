@@ -19,6 +19,6 @@ int FirtsThreeDigit (int randomNumber) //поиск трёх чисел в тр�
     int threeDigit = randomNumber % 10;// третее число остаток от деления на 10 
     // второе число не находи так как по условию оно не нужно
     //return(firstDigit,threeDigit);
-    return firstDigit * 10 + threeDigit;
+    return firstDigit * 10 + threeDigit;//склеиваем математически
 }
 

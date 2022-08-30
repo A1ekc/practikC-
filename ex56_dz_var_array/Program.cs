@@ -1,13 +1,9 @@
 ﻿ //  Пользователь вводит с клавиатуры числа через запятую. Посчитать, сколько чисел  больше 0 введено.(на английской раскладке) 
 
-
 Console.WriteLine("Введите числа через запятую: ");
 string input = Console.ReadLine();
 
 int[] numbers = ParseStringToArray(input);
-
-
-
 
 PrintArray(numbers);
 

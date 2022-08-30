@@ -16,7 +16,11 @@ for (int i = 0; i < numbers.GetLength(0); i++)
     for (int j = 0; j < numbers.GetLength(1); j++)
     {
         if ( i == j)
+        {
             sum += numbers[i, j];
+            break;//чтобы не перебирать строку если нашли нужный элемент.
+        }
+            
     }
 }
 Console.WriteLine();

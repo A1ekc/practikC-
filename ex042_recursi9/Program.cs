@@ -30,4 +30,4 @@ double Fibonacci(int n)
 for (int i = 1; i < 50; i++)//50 чисел фибоначи
 {
     Console.WriteLine($"f({i}) = {Fibonacci(i)}");
-}
+} 

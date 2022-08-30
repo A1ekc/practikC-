@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oleks\\OneDrive\\Рабочий стол\\gb\\practikC-\\ex039_dz13\\ex039_dz13.csproj": {}
+    "D:\\Учёба\\practikC-\\ex039_dz13\\ex039_dz13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oleks\\OneDrive\\Рабочий стол\\gb\\practikC-\\ex039_dz13\\ex039_dz13.csproj": {
+    "D:\\Учёба\\practikC-\\ex039_dz13\\ex039_dz13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oleks\\OneDrive\\Рабочий стол\\gb\\practikC-\\ex039_dz13\\ex039_dz13.csproj",
+        "projectUniqueName": "D:\\Учёба\\practikC-\\ex039_dz13\\ex039_dz13.csproj",
         "projectName": "ex039_dz13",
-        "projectPath": "C:\\Users\\oleks\\OneDrive\\Рабочий стол\\gb\\practikC-\\ex039_dz13\\ex039_dz13.csproj",
-        "packagesPath": "C:\\Users\\oleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oleks\\OneDrive\\Рабочий стол\\gb\\practikC-\\ex039_dz13\\obj\\",
+        "projectPath": "D:\\Учёба\\practikC-\\ex039_dz13\\ex039_dz13.csproj",
+        "packagesPath": "C:\\Users\\a1eks\\.nuget\\packages\\",
+        "outputPath": "D:\\Учёба\\practikC-\\ex039_dz13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\a1eks\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
