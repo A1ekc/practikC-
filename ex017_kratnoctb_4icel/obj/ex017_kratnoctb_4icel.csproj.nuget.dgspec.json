@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учёба\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj": {}
+    "E:\\Учёба\\PractikCSHarp\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj": {}
   },
   "projects": {
-    "D:\\Учёба\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj": {
+    "E:\\Учёба\\PractikCSHarp\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учёба\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj",
+        "projectUniqueName": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj",
         "projectName": "ex017_kratnoctb_4icel",
-        "projectPath": "D:\\Учёба\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj",
-        "packagesPath": "C:\\Users\\a1eks\\.nuget\\packages\\",
-        "outputPath": "D:\\Учёба\\practikC-\\ex017_kratnoctb_4icel\\obj\\",
+        "projectPath": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex017_kratnoctb_4icel\\ex017_kratnoctb_4icel.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex017_kratnoctb_4icel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a1eks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

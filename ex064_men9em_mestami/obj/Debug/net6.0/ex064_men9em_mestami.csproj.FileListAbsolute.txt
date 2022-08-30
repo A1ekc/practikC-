@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\bin\Debug\net6.0\ex064_men9em_mestami.exe
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\bin\Debug\net6.0\ex064_men9em_mestami.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\bin\Debug\net6.0\ex064_men9em_mestami.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\bin\Debug\net6.0\ex064_men9em_mestami.dll
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\bin\Debug\net6.0\ex064_men9em_mestami.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.dll
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\refint\ex064_men9em_mestami.dll
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ex064_men9em_mestami.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex064_men9em_mestami\obj\Debug\net6.0\ref\ex064_men9em_mestami.dll

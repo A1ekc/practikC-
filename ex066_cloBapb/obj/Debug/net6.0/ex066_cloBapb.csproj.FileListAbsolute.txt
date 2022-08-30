@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.AssemblyInfo.cs
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex066_cloBapb\bin\Debug\net6.0\ex066_cloBapb.exe
+D:\Учёба\practikC-\ex066_cloBapb\bin\Debug\net6.0\ex066_cloBapb.deps.json
+D:\Учёба\practikC-\ex066_cloBapb\bin\Debug\net6.0\ex066_cloBapb.runtimeconfig.json
+D:\Учёба\practikC-\ex066_cloBapb\bin\Debug\net6.0\ex066_cloBapb.dll
+D:\Учёба\practikC-\ex066_cloBapb\bin\Debug\net6.0\ex066_cloBapb.pdb
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.dll
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\refint\ex066_cloBapb.dll
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.pdb
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ex066_cloBapb.genruntimeconfig.cache
+D:\Учёба\practikC-\ex066_cloBapb\obj\Debug\net6.0\ref\ex066_cloBapb.dll
