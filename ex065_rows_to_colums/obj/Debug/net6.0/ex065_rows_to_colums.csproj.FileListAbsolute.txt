@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\bin\Debug\net6.0\ex065_rows_to_colums.exe
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\bin\Debug\net6.0\ex065_rows_to_colums.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\bin\Debug\net6.0\ex065_rows_to_colums.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\bin\Debug\net6.0\ex065_rows_to_colums.dll
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\bin\Debug\net6.0\ex065_rows_to_colums.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.dll
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\refint\ex065_rows_to_colums.dll
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ex065_rows_to_colums.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex065_rows_to_colums\obj\Debug\net6.0\ref\ex065_rows_to_colums.dll
