@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex059_2d_nechetnie\bin\Debug\net6.0\ex059_2d_nechetnie.exe
+D:\Учёба\practikC-\ex059_2d_nechetnie\bin\Debug\net6.0\ex059_2d_nechetnie.deps.json
+D:\Учёба\practikC-\ex059_2d_nechetnie\bin\Debug\net6.0\ex059_2d_nechetnie.runtimeconfig.json
+D:\Учёба\practikC-\ex059_2d_nechetnie\bin\Debug\net6.0\ex059_2d_nechetnie.dll
+D:\Учёба\practikC-\ex059_2d_nechetnie\bin\Debug\net6.0\ex059_2d_nechetnie.pdb
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.AssemblyInfo.cs
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.dll
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\refint\ex059_2d_nechetnie.dll
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.pdb
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ex059_2d_nechetnie.genruntimeconfig.cache
+D:\Учёба\practikC-\ex059_2d_nechetnie\obj\Debug\net6.0\ref\ex059_2d_nechetnie.dll

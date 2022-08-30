@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex042_recursi9\bin\Debug\net6.0\ex042_recursi9.exe
+D:\Учёба\practikC-\ex042_recursi9\bin\Debug\net6.0\ex042_recursi9.deps.json
+D:\Учёба\practikC-\ex042_recursi9\bin\Debug\net6.0\ex042_recursi9.runtimeconfig.json
+D:\Учёба\practikC-\ex042_recursi9\bin\Debug\net6.0\ex042_recursi9.dll
+D:\Учёба\practikC-\ex042_recursi9\bin\Debug\net6.0\ex042_recursi9.pdb
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.AssemblyInfo.cs
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.dll
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\refint\ex042_recursi9.dll
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.pdb
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ex042_recursi9.genruntimeconfig.cache
+D:\Учёба\practikC-\ex042_recursi9\obj\Debug\net6.0\ref\ex042_recursi9.dll

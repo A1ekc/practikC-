@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex049_dz15\bin\Debug\net6.0\ex049_dz15.exe
+D:\Учёба\practikC-\ex049_dz15\bin\Debug\net6.0\ex049_dz15.deps.json
+D:\Учёба\practikC-\ex049_dz15\bin\Debug\net6.0\ex049_dz15.runtimeconfig.json
+D:\Учёба\practikC-\ex049_dz15\bin\Debug\net6.0\ex049_dz15.dll
+D:\Учёба\practikC-\ex049_dz15\bin\Debug\net6.0\ex049_dz15.pdb
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.AssemblyInfo.cs
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.dll
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\refint\ex049_dz15.dll
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.pdb
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ex049_dz15.genruntimeconfig.cache
+D:\Учёба\practikC-\ex049_dz15\obj\Debug\net6.0\ref\ex049_dz15.dll

@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\bin\Debug\net6.0\ex031_rabota_s_textom.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\bin\Debug\net6.0\ex031_rabota_s_textom.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\bin\Debug\net6.0\ex031_rabota_s_textom.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\bin\Debug\net6.0\ex031_rabota_s_textom.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\bin\Debug\net6.0\ex031_rabota_s_textom.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\refint\ex031_rabota_s_textom.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ex031_rabota_s_textom.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex031_rabota_s_textom\obj\Debug\net6.0\ref\ex031_rabota_s_textom.dll

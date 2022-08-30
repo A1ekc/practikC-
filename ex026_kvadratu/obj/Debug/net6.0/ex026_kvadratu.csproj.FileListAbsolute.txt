@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\bin\Debug\net6.0\ex026_kvadratu.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\bin\Debug\net6.0\ex026_kvadratu.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\bin\Debug\net6.0\ex026_kvadratu.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\bin\Debug\net6.0\ex026_kvadratu.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\bin\Debug\net6.0\ex026_kvadratu.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\refint\ex026_kvadratu.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ex026_kvadratu.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex026_kvadratu\obj\Debug\net6.0\ref\ex026_kvadratu.dll

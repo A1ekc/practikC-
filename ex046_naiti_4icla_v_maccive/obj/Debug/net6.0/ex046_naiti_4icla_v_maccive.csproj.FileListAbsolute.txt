@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.AssemblyInfo.cs
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\bin\Debug\net6.0\ex046_naiti_4icla_v_maccive.exe
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\bin\Debug\net6.0\ex046_naiti_4icla_v_maccive.deps.json
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\bin\Debug\net6.0\ex046_naiti_4icla_v_maccive.runtimeconfig.json
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\bin\Debug\net6.0\ex046_naiti_4icla_v_maccive.dll
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\bin\Debug\net6.0\ex046_naiti_4icla_v_maccive.pdb
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.dll
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\refint\ex046_naiti_4icla_v_maccive.dll
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.pdb
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ex046_naiti_4icla_v_maccive.genruntimeconfig.cache
+D:\Учёба\practikC-\ex046_naiti_4icla_v_maccive\obj\Debug\net6.0\ref\ex046_naiti_4icla_v_maccive.dll

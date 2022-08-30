@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex057_2D_array\bin\Debug\net6.0\ex057_2D_array.exe
+D:\Учёба\practikC-\ex057_2D_array\bin\Debug\net6.0\ex057_2D_array.deps.json
+D:\Учёба\practikC-\ex057_2D_array\bin\Debug\net6.0\ex057_2D_array.runtimeconfig.json
+D:\Учёба\practikC-\ex057_2D_array\bin\Debug\net6.0\ex057_2D_array.dll
+D:\Учёба\practikC-\ex057_2D_array\bin\Debug\net6.0\ex057_2D_array.pdb
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.AssemblyInfo.cs
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.dll
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\refint\ex057_2D_array.dll
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.pdb
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ex057_2D_array.genruntimeconfig.cache
+D:\Учёба\practikC-\ex057_2D_array\obj\Debug\net6.0\ref\ex057_2D_array.dll

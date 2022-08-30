@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex060_2D_diag/1.0.0": {
+        "runtime": {
+          "ex060_2D_diag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex060_2D_diag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

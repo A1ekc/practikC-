@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\bin\Debug\net6.0\ex033_sumAtoN.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\bin\Debug\net6.0\ex033_sumAtoN.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\bin\Debug\net6.0\ex033_sumAtoN.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\bin\Debug\net6.0\ex033_sumAtoN.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\bin\Debug\net6.0\ex033_sumAtoN.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\refint\ex033_sumAtoN.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ex033_sumAtoN.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex033_sumAtoN\obj\Debug\net6.0\ref\ex033_sumAtoN.dll

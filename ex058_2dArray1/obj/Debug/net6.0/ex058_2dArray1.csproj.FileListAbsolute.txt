@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex058_2dArray1\bin\Debug\net6.0\ex058_2dArray1.exe
+D:\Учёба\practikC-\ex058_2dArray1\bin\Debug\net6.0\ex058_2dArray1.deps.json
+D:\Учёба\practikC-\ex058_2dArray1\bin\Debug\net6.0\ex058_2dArray1.runtimeconfig.json
+D:\Учёба\practikC-\ex058_2dArray1\bin\Debug\net6.0\ex058_2dArray1.dll
+D:\Учёба\practikC-\ex058_2dArray1\bin\Debug\net6.0\ex058_2dArray1.pdb
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.AssemblyInfo.cs
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.dll
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\refint\ex058_2dArray1.dll
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.pdb
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ex058_2dArray1.genruntimeconfig.cache
+D:\Учёба\practikC-\ex058_2dArray1\obj\Debug\net6.0\ref\ex058_2dArray1.dll

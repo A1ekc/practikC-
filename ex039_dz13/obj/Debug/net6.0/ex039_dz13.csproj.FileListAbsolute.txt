@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\bin\Debug\net6.0\ex039_dz13.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\bin\Debug\net6.0\ex039_dz13.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\bin\Debug\net6.0\ex039_dz13.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\bin\Debug\net6.0\ex039_dz13.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\bin\Debug\net6.0\ex039_dz13.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\refint\ex039_dz13.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ex039_dz13.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex039_dz13\obj\Debug\net6.0\ref\ex039_dz13.dll

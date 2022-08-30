@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex032_zamena_v_massive/1.0.0": {
+        "runtime": {
+          "ex032_zamena_v_massive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex032_zamena_v_massive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

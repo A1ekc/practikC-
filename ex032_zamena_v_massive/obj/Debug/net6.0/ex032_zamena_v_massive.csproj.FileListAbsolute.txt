@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\bin\Debug\net6.0\ex032_zamena_v_massive.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\bin\Debug\net6.0\ex032_zamena_v_massive.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\bin\Debug\net6.0\ex032_zamena_v_massive.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\bin\Debug\net6.0\ex032_zamena_v_massive.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\bin\Debug\net6.0\ex032_zamena_v_massive.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\refint\ex032_zamena_v_massive.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ex032_zamena_v_massive.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex032_zamena_v_massive\obj\Debug\net6.0\ref\ex032_zamena_v_massive.dll

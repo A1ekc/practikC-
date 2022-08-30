@@ -1,0 +1,15 @@
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\bin\Debug\net6.0\ex054_coppy_array.exe
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\bin\Debug\net6.0\ex054_coppy_array.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\bin\Debug\net6.0\ex054_coppy_array.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\bin\Debug\net6.0\ex054_coppy_array.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\bin\Debug\net6.0\ex054_coppy_array.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\refint\ex054_coppy_array.dll
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ex054_coppy_array.genruntimeconfig.cache
+C:\Users\oleks\OneDrive\Рабочий стол\gb\practikC-\ex054_coppy_array\obj\Debug\net6.0\ref\ex054_coppy_array.dll

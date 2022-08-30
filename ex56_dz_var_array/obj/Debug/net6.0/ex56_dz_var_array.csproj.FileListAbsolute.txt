@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex56_dz_var_array\bin\Debug\net6.0\ex56_dz_var_array.exe
+D:\Учёба\practikC-\ex56_dz_var_array\bin\Debug\net6.0\ex56_dz_var_array.deps.json
+D:\Учёба\practikC-\ex56_dz_var_array\bin\Debug\net6.0\ex56_dz_var_array.runtimeconfig.json
+D:\Учёба\practikC-\ex56_dz_var_array\bin\Debug\net6.0\ex56_dz_var_array.dll
+D:\Учёба\practikC-\ex56_dz_var_array\bin\Debug\net6.0\ex56_dz_var_array.pdb
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.AssemblyInfo.cs
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.dll
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\refint\ex56_dz_var_array.dll
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.pdb
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ex56_dz_var_array.genruntimeconfig.cache
+D:\Учёба\practikC-\ex56_dz_var_array\obj\Debug\net6.0\ref\ex56_dz_var_array.dll

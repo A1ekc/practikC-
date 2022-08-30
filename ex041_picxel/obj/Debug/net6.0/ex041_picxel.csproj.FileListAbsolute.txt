@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex041_picxel\bin\Debug\net6.0\ex041_picxel.exe
+D:\Учёба\practikC-\ex041_picxel\bin\Debug\net6.0\ex041_picxel.deps.json
+D:\Учёба\practikC-\ex041_picxel\bin\Debug\net6.0\ex041_picxel.runtimeconfig.json
+D:\Учёба\practikC-\ex041_picxel\bin\Debug\net6.0\ex041_picxel.dll
+D:\Учёба\practikC-\ex041_picxel\bin\Debug\net6.0\ex041_picxel.pdb
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.AssemblyInfo.cs
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.dll
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\refint\ex041_picxel.dll
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.pdb
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ex041_picxel.genruntimeconfig.cache
+D:\Учёба\practikC-\ex041_picxel\obj\Debug\net6.0\ref\ex041_picxel.dll
