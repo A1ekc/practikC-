@@ -18,9 +18,19 @@ for (int i = 0; i < numbers.GetLength(0); i++)//GetLength(0) - строки
 {
     for(int j = 0; j < numbers.GetLength(1); j++)
     {
-        turnNumbers[i,j] = numbers[j,i];
+        turnNumbers[i, j] = numbers[j, i];
     }
 }
+//второй вариант через диагональ 
+//for (int i = 0; i < numbers.GetLength(0); i++)//GetLength(0) - строки
+//{
+//   for(int j = 0; j < i; j++)
+//    {
+//        int temp = numbers[i, j];
+//        numbers[i, j] = numbers[j, i];
+//        numbers[j, i] = temp;
+//    }
+//}
 PrintArray2D(turnNumbers);
 
 void FillArray2D(int[,] array)
