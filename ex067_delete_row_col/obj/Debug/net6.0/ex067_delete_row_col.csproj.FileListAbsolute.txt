@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.AssemblyInfo.cs
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex067_delete_row_col\bin\Debug\net6.0\ex067_delete_row_col.exe
+D:\Учёба\practikC-\ex067_delete_row_col\bin\Debug\net6.0\ex067_delete_row_col.deps.json
+D:\Учёба\practikC-\ex067_delete_row_col\bin\Debug\net6.0\ex067_delete_row_col.runtimeconfig.json
+D:\Учёба\practikC-\ex067_delete_row_col\bin\Debug\net6.0\ex067_delete_row_col.dll
+D:\Учёба\practikC-\ex067_delete_row_col\bin\Debug\net6.0\ex067_delete_row_col.pdb
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.dll
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\refint\ex067_delete_row_col.dll
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.pdb
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ex067_delete_row_col.genruntimeconfig.cache
+D:\Учёба\practikC-\ex067_delete_row_col\obj\Debug\net6.0\ref\ex067_delete_row_col.dll
