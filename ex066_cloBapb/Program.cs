@@ -13,23 +13,23 @@ PrintArray2D(numbers);
 int countMatches = 1;
 int temp = numbers[0, 0];//начинаем с первого элемента отсортированного массива
 
-for (int i = 0; i < numbers.GetLength(0); i++)//подсчёт количества в отсотированном массиве
+for (int i = 0; i < numbers.GetLength(0); i++)//считаем сколько разных цыфр в массиве
     {
         for (int j = 0; j < numbers.GetLength(1); j++)//GetLength(1) - столбцы
         {
-            if (temp != numbers[i, j])// если наталкиваемся на новый элемент и увеличиваем количество повторений
+            if (temp != numbers[i, j])// если наталкиваемся на новый элемент 
             {
-                temp = numbers[i, j];
+                temp = numbers[i, j];//присваиваем новый номер и увеличиваем счётчик
                 countMatches++;
             }
         }
     }
 
-int[,] frequencyDictionary = new int[2, countMatches];//создаём частотный словарь
+int[,] frequencyDictionary = new int[2, countMatches];//создаём частотный словарь зная сколько чисел имеем
 
 int frequencyDictionaryIndex = 0;
-frequencyDictionary[0, frequencyDictionaryIndex] = numbers[0, 0];
-for (int i = 0; i < numbers.GetLength(0); i++)//подсчёт количества в отсотированном массиве
+frequencyDictionary[0, frequencyDictionaryIndex] = numbers[0, 0];// присваеваем нулевому индексу словаря первое значение
+for (int i = 0; i < numbers.GetLength(0); i++)//подсчёт количества повторений
     {
         for (int j = 0; j < numbers.GetLength(1); j++)//GetLength(1) - столбцы
         {
@@ -47,7 +47,7 @@ for (int i = 0; i < numbers.GetLength(0); i++)//подсчёт количест�
         }
     }
 
-for (int i = 0; i < frequencyDictionary.GetLength(1); i++)
+for (int i = 0; i < frequencyDictionary.GetLength(1); i++)// выводим массив с цифрами и количеством их повторений
 {
     Console.WriteLine($"Число{frequencyDictionary[0, i]} встречается {frequencyDictionary[1, i]} раз");
 }
