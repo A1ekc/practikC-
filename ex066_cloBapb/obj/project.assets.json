@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\a1eks\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учёба\\practikC-\\ex066_cloBapb\\ex066_cloBapb.csproj",
+      "projectUniqueName": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex066_cloBapb\\ex066_cloBapb.csproj",
       "projectName": "ex066_cloBapb",
-      "projectPath": "D:\\Учёба\\practikC-\\ex066_cloBapb\\ex066_cloBapb.csproj",
-      "packagesPath": "C:\\Users\\a1eks\\.nuget\\packages\\",
-      "outputPath": "D:\\Учёба\\practikC-\\ex066_cloBapb\\obj\\",
+      "projectPath": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex066_cloBapb\\ex066_cloBapb.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Учёба\\PractikCSHarp\\practikC-\\ex066_cloBapb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a1eks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

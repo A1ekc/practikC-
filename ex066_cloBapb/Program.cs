@@ -12,44 +12,44 @@ PrintArray2D(numbers);
 
 int countMatches = 1;
 int temp = numbers[0, 0];//начинаем с первого элемента отсортированного массива
-
+// узнаём сколько разнообразных элементов есть в массиве
 for (int i = 0; i < numbers.GetLength(0); i++)//подсчёт количества в отсотированном массиве
     {
         for (int j = 0; j < numbers.GetLength(1); j++)//GetLength(1) - столбцы
         {
             if (temp != numbers[i, j])// если наталкиваемся на новый элемент и увеличиваем количество повторений
             {
-                temp = numbers[i, j];
+                temp = numbers[i, j];// проверяем новый элемент
                 countMatches++;
             }
         }
     }
-
-int[,] frequencyDictionary = new int[2, countMatches];//создаём частотный словарь
+// после того как узнали сколько различных элементов - создаём новый массив
+int[,] frequencyDictionary = new int[2, countMatches];//создаём частотный словарь 1 строка элемент 2- сколько раз
 
 int frequencyDictionaryIndex = 0;
-frequencyDictionary[0, frequencyDictionaryIndex] = numbers[0, 0];
+frequencyDictionary[0, frequencyDictionaryIndex] = numbers[0, 0];//записываем первое число в двумерный массив
 for (int i = 0; i < numbers.GetLength(0); i++)//подсчёт количества в отсотированном массиве
     {
         for (int j = 0; j < numbers.GetLength(1); j++)//GetLength(1) - столбцы
         {
-            if (frequencyDictionary[0, frequencyDictionaryIndex] == numbers[i,j])//считаем количество повторений
+            if (frequencyDictionary[0, frequencyDictionaryIndex] == numbers[i,j])//если число и
             {
                 frequencyDictionary[1, frequencyDictionaryIndex]++;
             }
             else
             {
-                frequencyDictionaryIndex++;// если нашли другое число то сразу прибовляем +1
-                frequencyDictionary[0, frequencyDictionaryIndex] = numbers[i, j];
+                frequencyDictionaryIndex++;// если нашли другое число то переходим на следующий индекс
+                frequencyDictionary[0, frequencyDictionaryIndex] = numbers[i, j];//записываем в частотный словарь новое число
                 frequencyDictionary[1, frequencyDictionaryIndex]++;
             }
 
         }
     }
-
+// проходим по словарю и выводим
 for (int i = 0; i < frequencyDictionary.GetLength(1); i++)
 {
-    Console.WriteLine($"Число{frequencyDictionary[0, i]} встречается {frequencyDictionary[1, i]} раз");
+    Console.WriteLine($"Число {frequencyDictionary[0, i]} встречается {frequencyDictionary[1, i]} раз");
 }
 
 
