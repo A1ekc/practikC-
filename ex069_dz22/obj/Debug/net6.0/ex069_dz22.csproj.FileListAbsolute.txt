@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex069_dz22\bin\Debug\net6.0\ex069_dz22.exe
+D:\Учёба\practikC-\ex069_dz22\bin\Debug\net6.0\ex069_dz22.deps.json
+D:\Учёба\practikC-\ex069_dz22\bin\Debug\net6.0\ex069_dz22.runtimeconfig.json
+D:\Учёба\practikC-\ex069_dz22\bin\Debug\net6.0\ex069_dz22.dll
+D:\Учёба\practikC-\ex069_dz22\bin\Debug\net6.0\ex069_dz22.pdb
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.AssemblyInfo.cs
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.dll
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\refint\ex069_dz22.dll
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.pdb
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ex069_dz22.genruntimeconfig.cache
+D:\Учёба\practikC-\ex069_dz22\obj\Debug\net6.0\ref\ex069_dz22.dll
