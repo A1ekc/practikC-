@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\bin\Debug\net6.0\ex074_recurci9_4icla1toN.exe
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\bin\Debug\net6.0\ex074_recurci9_4icla1toN.deps.json
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\bin\Debug\net6.0\ex074_recurci9_4icla1toN.runtimeconfig.json
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\bin\Debug\net6.0\ex074_recurci9_4icla1toN.dll
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\bin\Debug\net6.0\ex074_recurci9_4icla1toN.pdb
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.AssemblyInfo.cs
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.dll
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\refint\ex074_recurci9_4icla1toN.dll
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.pdb
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ex074_recurci9_4icla1toN.genruntimeconfig.cache
+D:\Учёба\practikC-\ex074_recurci9_4icla1toN\obj\Debug\net6.0\ref\ex074_recurci9_4icla1toN.dll
