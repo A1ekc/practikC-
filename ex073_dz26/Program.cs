@@ -1,97 +1,5 @@
 ﻿// Напишите программу, которая заполнит спирально массив 4 на 4.
-/*
-int rows = ReadInt("Введите количество строк: ");
-int colums = ReadInt("Введите количество столбцов: ");
-int[,] numbers = new int[rows, colums];
 
-
-PrintArray2D(numbers);
-//тут должен быть цикл while (не придумать выход)
-TopLeftToRight(numbers);
-RightTopToDown(numbers);
-DownRightToLeft(numbers);
-LeftDownToTop(numbers);
-TopLeftToRight(numbers);
-RightTopToDown(numbers);
-LeftDownToTop(numbers);
-
-PrintArray2D(numbers);
-
-int num = 1;
-
-int I = 0;//смещение для следующего шага вправо
-int TopLeftToRight (int[,] array)
-{   
-    while(numbers[i, j] = 0)
-    {
-        for (int j = 0; j < numbers.GetLength(1); j++)
-        {   
-            numbers[0+I,j] = num;//шаг для следующего шага вправо
-            num++; 
-        }
-    }
-    I++;
-}
-int J = 0;//смещение
-int RightTopToDown (int[,] array)
-{   
-    while(numbers[i, j] = 0)
-    {
-        for (int i = 0; i < numbers.GetLength(0); i++)
-        {   
-            numbers[i, colums - J] = num;
-            num++; 
-        }
-    }
-    J++;
-}
-int K = 0;//смещение
-int DownRightToLeft (int[,] array)
-{   
-    while(numbers[i, j] = 0)
-    {
-        for (int j = colums; j > 0; j--)
-        {   
-            numbers[rows - K, j] = num;
-            num++; 
-        }
-    }
-    K++;
-}
-int L = 0;//смещение
-int LeftDownToTop (int[,] array)
-{   
-    while(numbers[i, j] = 0)
-    {
-        for (int i = rows; i > 0; i--)
-        {   
-            numbers[i, 0 + L] = num;
-            num++; 
-        }
-    }
-    L++;
-}
-
-
-void PrintArray2D(int[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)//GetLength(0) - строки
-    {
-        for (int j = 0; j < array.GetLength(1); j++)//GetLength(1) - столбцы
-        {
-            Console.Write(array[i, j] + " ");
-        }
-        Console.WriteLine();
-    }
-    Console.WriteLine();
-}
-
-int ReadInt(string message)
-{
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
-*/
 
         //Заполним массив, количество строк мы обозначим m, а столбцов - n.
         int rows = 4;
@@ -204,3 +112,96 @@ int ReadInt(string message)
 
 PrintArray2D(array);
 
+/*
+int rows = ReadInt("Введите количество строк: ");
+int colums = ReadInt("Введите количество столбцов: ");
+int[,] numbers = new int[rows, colums];
+
+
+PrintArray2D(numbers);
+//тут должен быть цикл while (не придумать выход)
+TopLeftToRight(numbers);
+RightTopToDown(numbers);
+DownRightToLeft(numbers);
+LeftDownToTop(numbers);
+TopLeftToRight(numbers);
+RightTopToDown(numbers);
+LeftDownToTop(numbers);
+
+PrintArray2D(numbers);
+
+int num = 1;
+
+int I = 0;//смещение для следующего шага вправо
+int TopLeftToRight (int[,] array)
+{   
+    while(numbers[i, j] = 0)
+    {
+        for (int j = 0; j < numbers.GetLength(1); j++)
+        {   
+            numbers[0+I,j] = num;//шаг для следующего шага вправо
+            num++; 
+        }
+    }
+    I++;
+}
+int J = 0;//смещение
+int RightTopToDown (int[,] array)
+{   
+    while(numbers[i, j] = 0)
+    {
+        for (int i = 0; i < numbers.GetLength(0); i++)
+        {   
+            numbers[i, colums - J] = num;
+            num++; 
+        }
+    }
+    J++;
+}
+int K = 0;//смещение
+int DownRightToLeft (int[,] array)
+{   
+    while(numbers[i, j] = 0)
+    {
+        for (int j = colums; j > 0; j--)
+        {   
+            numbers[rows - K, j] = num;
+            num++; 
+        }
+    }
+    K++;
+}
+int L = 0;//смещение
+int LeftDownToTop (int[,] array)
+{   
+    while(numbers[i, j] = 0)
+    {
+        for (int i = rows; i > 0; i--)
+        {   
+            numbers[i, 0 + L] = num;
+            num++; 
+        }
+    }
+    L++;
+}
+
+
+void PrintArray2D(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)//GetLength(0) - строки
+    {
+        for (int j = 0; j < array.GetLength(1); j++)//GetLength(1) - столбцы
+        {
+            Console.Write(array[i, j] + " ");
+        }
+        Console.WriteLine();
+    }
+    Console.WriteLine();
+}
+
+int ReadInt(string message)
+{
+    Console.Write(message);
+    return Convert.ToInt32(Console.ReadLine());
+}
+*/
