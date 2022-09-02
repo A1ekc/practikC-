@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex077_rec_ctepenb\bin\Debug\net6.0\ex077_rec_ctepenb.exe
+D:\Учёба\practikC-\ex077_rec_ctepenb\bin\Debug\net6.0\ex077_rec_ctepenb.deps.json
+D:\Учёба\practikC-\ex077_rec_ctepenb\bin\Debug\net6.0\ex077_rec_ctepenb.runtimeconfig.json
+D:\Учёба\practikC-\ex077_rec_ctepenb\bin\Debug\net6.0\ex077_rec_ctepenb.dll
+D:\Учёба\practikC-\ex077_rec_ctepenb\bin\Debug\net6.0\ex077_rec_ctepenb.pdb
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.AssemblyInfo.cs
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.dll
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\refint\ex077_rec_ctepenb.dll
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.pdb
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ex077_rec_ctepenb.genruntimeconfig.cache
+D:\Учёба\practikC-\ex077_rec_ctepenb\obj\Debug\net6.0\ref\ex077_rec_ctepenb.dll
