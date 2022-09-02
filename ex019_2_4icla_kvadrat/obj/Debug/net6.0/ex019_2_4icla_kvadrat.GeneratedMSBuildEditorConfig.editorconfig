@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ex019_2_4icla_kvadrat
-<<<<<<< HEAD
 build_property.ProjectDir = d:\Учёба\practikC-\ex019_2_4icla_kvadrat\
-=======
-build_property.ProjectDir = e:\Учёба\PractikCSHarp\practikC-\ex019_2_4icla_kvadrat\
->>>>>>> c61d477b58b109cc3a35aa3e2ee0df47babe095a
