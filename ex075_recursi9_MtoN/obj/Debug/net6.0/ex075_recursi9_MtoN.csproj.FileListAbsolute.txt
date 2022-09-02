@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex075_recursi9_MtoN\bin\Debug\net6.0\ex075_recursi9_MtoN.exe
+D:\Учёба\practikC-\ex075_recursi9_MtoN\bin\Debug\net6.0\ex075_recursi9_MtoN.deps.json
+D:\Учёба\practikC-\ex075_recursi9_MtoN\bin\Debug\net6.0\ex075_recursi9_MtoN.runtimeconfig.json
+D:\Учёба\practikC-\ex075_recursi9_MtoN\bin\Debug\net6.0\ex075_recursi9_MtoN.dll
+D:\Учёба\practikC-\ex075_recursi9_MtoN\bin\Debug\net6.0\ex075_recursi9_MtoN.pdb
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.AssemblyInfo.cs
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.dll
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\refint\ex075_recursi9_MtoN.dll
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.pdb
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ex075_recursi9_MtoN.genruntimeconfig.cache
+D:\Учёба\practikC-\ex075_recursi9_MtoN\obj\Debug\net6.0\ref\ex075_recursi9_MtoN.dll
