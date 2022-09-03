@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex078_rec_fibonacci\bin\Debug\net6.0\ex078_rec_fibonacci.exe
+D:\Учёба\practikC-\ex078_rec_fibonacci\bin\Debug\net6.0\ex078_rec_fibonacci.deps.json
+D:\Учёба\practikC-\ex078_rec_fibonacci\bin\Debug\net6.0\ex078_rec_fibonacci.runtimeconfig.json
+D:\Учёба\practikC-\ex078_rec_fibonacci\bin\Debug\net6.0\ex078_rec_fibonacci.dll
+D:\Учёба\practikC-\ex078_rec_fibonacci\bin\Debug\net6.0\ex078_rec_fibonacci.pdb
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.AssemblyInfo.cs
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.dll
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\refint\ex078_rec_fibonacci.dll
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.pdb
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ex078_rec_fibonacci.genruntimeconfig.cache
+D:\Учёба\practikC-\ex078_rec_fibonacci\obj\Debug\net6.0\ref\ex078_rec_fibonacci.dll
