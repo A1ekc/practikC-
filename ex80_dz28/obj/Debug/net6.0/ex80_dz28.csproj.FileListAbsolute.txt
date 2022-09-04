@@ -1,0 +1,15 @@
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.csproj.AssemblyReference.cache
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.AssemblyInfoInputs.cache
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.AssemblyInfo.cs
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.csproj.CoreCompileInputs.cache
+D:\Учёба\practikC-\ex80_dz28\bin\Debug\net6.0\ex80_dz28.exe
+D:\Учёба\practikC-\ex80_dz28\bin\Debug\net6.0\ex80_dz28.deps.json
+D:\Учёба\practikC-\ex80_dz28\bin\Debug\net6.0\ex80_dz28.runtimeconfig.json
+D:\Учёба\practikC-\ex80_dz28\bin\Debug\net6.0\ex80_dz28.dll
+D:\Учёба\practikC-\ex80_dz28\bin\Debug\net6.0\ex80_dz28.pdb
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.dll
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\refint\ex80_dz28.dll
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.pdb
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ex80_dz28.genruntimeconfig.cache
+D:\Учёба\practikC-\ex80_dz28\obj\Debug\net6.0\ref\ex80_dz28.dll
