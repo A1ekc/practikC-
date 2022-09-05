@@ -1,0 +1,15 @@
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\bin\Debug\net6.0\ex081_dz29.exe
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\bin\Debug\net6.0\ex081_dz29.deps.json
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\bin\Debug\net6.0\ex081_dz29.runtimeconfig.json
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\bin\Debug\net6.0\ex081_dz29.dll
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\bin\Debug\net6.0\ex081_dz29.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.csproj.AssemblyReference.cache
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.AssemblyInfoInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.AssemblyInfo.cs
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.csproj.CoreCompileInputs.cache
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.dll
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\refint\ex081_dz29.dll
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.pdb
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ex081_dz29.genruntimeconfig.cache
+E:\Учёба\PractikCSHarp\practikC-\ex081_dz29\obj\Debug\net6.0\ref\ex081_dz29.dll
